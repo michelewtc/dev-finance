@@ -1,2 +1,1 @@
-# dev-finance
- MaratonaDiscover 01
+Projeto dev.finance$ realizado na MaratonaDiscover da RocketSeat
